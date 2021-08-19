@@ -1,8 +1,8 @@
 <h2 style="color: #0194DD;">Olá!! Bem vindos ao meu repositório!</h2>
 <div>
    <a href="https://github.com/eddvaz">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eddvaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddvaz&layout=compact&langs_count=7&theme=algolia"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eddvaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddvaz&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 <div style="display: inline_block"><br>
